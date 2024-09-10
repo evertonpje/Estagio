@@ -1,0 +1,43 @@
+a) 1, 3, 5, 7, ___ 
+
+A sequência é de números ímpares consecutivos. 
+
+O próximo número é: 9. 
+
+b) 2, 4, 8, 16, 32, 64, ____ 
+
+A sequência duplica a cada termo (multiplicação por 2). 
+
+O próximo número é: 128. 
+
+c) 0, 1, 4, 9, 16, 25, 36, ____ 
+
+Esta é a sequência de números quadrados: 02,12,22,32,…0^2, 1^2, 2^2, 3^2,  
+
+O próximo número é : 7^2 =  49 
+
+O próximo número é: 49. 
+
+d) 4, 16, 36, 64, ____ 
+
+Esta sequência segue a fórmula 22,42,62,82,…2^2, 4^2, 6^2, 8^2, 22,42,62,82,…. 
+
+O próximo número é 10^2 = 100 
+
+O próximo número é: 100. 
+
+e) 1, 1, 2, 3, 5, 8, ____ 
+
+Esta é a sequência de Fibonacci, onde cada número é a soma dos dois anteriores. 
+
+O próximo número é 5+8=135 + 8 = 135+8=13. 
+
+O próximo número é: 13. 
+
+f) 2, 10, 12, 16, 17, 18, 19, ____ 
+
+A lógica parece ser uma mistura de saltos irregulares, mas ao observar a sequência, depois de 19, vem 20. 
+
+O próximo número é: 20. 
+
+ 

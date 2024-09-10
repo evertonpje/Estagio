@@ -1,0 +1,24 @@
+Visita inicial:
+
+Etapa: Ative o primeiro interruptor e deixe passar alguns minutos.
+
+Observação: A lâmpada ligada ao primeiro interruptor estará quente.
+
+Segunda viagem:
+
+Ação: Desligue o primeiro interruptor e ative o segundo. Depois disso, prossiga para a sala da lâmpada.
+
+Análise:
+Lâmpada quente: Esta lâmpada é operada pelo primeiro interruptor.
+
+O segundo interruptor opera esta lâmpada.
+
+Desligue a lâmpada: O terceiro interruptor é responsável por controlar esta luz.
+
+O que o torna eficaz?
+
+Eliminação: Você pode determinar qual lâmpada o primeiro interruptor opera ligando-a e desligando-a antes da sua segunda visita e, em seguida, verificando sua temperatura.
+
+Durante a segunda visita, a lâmpada que está atualmente acesa será operada pelo interruptor que você acabou de ativar (o segundo).
+
+Método de eliminação: A lâmpada que permanecer fria e apagada será operada pelo terceiro interruptor através do processo de exclusão.
